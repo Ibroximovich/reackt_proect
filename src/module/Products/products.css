@@ -1,0 +1,29 @@
+.products{
+    padding-top: 80px;
+    margin-bottom: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.products-container > p{
+    font-family: "Roboto",sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 22px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #B16CEA;
+    margin-bottom: 25px;
+
+}
+
+
+.products-container > h2{
+    font-family: "Roboto",sans-serif;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 59.4px;
+    letter-spacing: 1px;
+    color: black;
+}

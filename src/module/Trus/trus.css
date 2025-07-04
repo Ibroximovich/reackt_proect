@@ -1,0 +1,19 @@
+.Trusted-section{
+  padding: 77px 0 80px;
+}
+
+.Trusted-by{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+    letter-spacing: 0%;
+    margin-bottom: 47px;
+    text-align: center;
+}
+.Trusted-imgs{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 100px;
+}
